@@ -1,4 +1,4 @@
-# challenge-03-password-generator
+# password-generator
 
 Creating a functioning password generator based on criteria and user input. Password length must be between 8 & 128 characters. User can select if the amount of characters they'd like and if they'd like uppercase, lowercase, numeric, and/or special characters to be included. After user answers modal window prompts the generated password displays in the password box. 
 
